@@ -46,3 +46,12 @@ h1 {
     background-position: right;
     padding: 50px;
 }
+
+.experinece {
+    width: 50%;
+    margin: 5%;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 30px gray;
+
+}
