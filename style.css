@@ -39,3 +39,10 @@ section {
     font-weight: 500;
     color: white;
 }
+
+.dream-big {
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    padding: 50px;
+}
