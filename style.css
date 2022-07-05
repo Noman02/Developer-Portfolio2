@@ -47,11 +47,30 @@ h1 {
     padding: 50px;
 }
 
+.experience-area {
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
 .experinece {
     width: 50%;
-    margin: 5%;
+    margin-left: 5%;
+    margin-right: 5%;
     padding: 20px;
     border-radius: 10px;
     box-shadow: 10px 10px 30px gray;
 
+}
+
+#mern-stack {
+    border-left: 10px solid salmon;
+}
+
+#baby-web {
+    border-left: 10px solid blue;
+}
+
+footer p {
+    text-align: center;
 }
